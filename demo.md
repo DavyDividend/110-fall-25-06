@@ -13,8 +13,8 @@ Documents about anything, for anyone!
 
 ## III. Syntax
 How do I make:
-emoji :smile:
-clickable [links](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- emoji :smile:
+- clickable [links](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - bulleted lists
 	- nested lists
 	- text effects such as:
